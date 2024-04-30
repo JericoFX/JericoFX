@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fivem Stuff](https://github.com/JericoFX/fx-garage)
 
-- 🌱 I’m currently learning ** Js, Ts,Svelte**
+- 🌱 I’m currently learning ** lua,Js ,Ts ,SolidJS and Svelte **
 
 
 <h3 align="left">Languages and Tools:</h3>
